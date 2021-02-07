@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Moke-Travel/static/css/main.4c691ff3.chunk.css",
-    "main.js": "/Moke-Travel/static/js/main.d284d0f7.chunk.js",
-    "main.js.map": "/Moke-Travel/static/js/main.d284d0f7.chunk.js.map",
+    "main.js": "/Moke-Travel/static/js/main.78486ee5.chunk.js",
+    "main.js.map": "/Moke-Travel/static/js/main.78486ee5.chunk.js.map",
     "runtime-main.js": "/Moke-Travel/static/js/runtime-main.bff5a5bb.js",
     "runtime-main.js.map": "/Moke-Travel/static/js/runtime-main.bff5a5bb.js.map",
     "static/js/2.2dd02ea8.chunk.js": "/Moke-Travel/static/js/2.2dd02ea8.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.bff5a5bb.js",
     "static/js/2.2dd02ea8.chunk.js",
     "static/css/main.4c691ff3.chunk.css",
-    "static/js/main.d284d0f7.chunk.js"
+    "static/js/main.78486ee5.chunk.js"
   ]
 }
