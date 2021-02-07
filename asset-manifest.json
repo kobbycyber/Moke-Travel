@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Moke-Travel/static/css/main.4c691ff3.chunk.css",
+    "main.js": "/Moke-Travel/static/js/main.b341c973.chunk.js",
+    "main.js.map": "/Moke-Travel/static/js/main.b341c973.chunk.js.map",
+    "runtime-main.js": "/Moke-Travel/static/js/runtime-main.bff5a5bb.js",
+    "runtime-main.js.map": "/Moke-Travel/static/js/runtime-main.bff5a5bb.js.map",
+    "static/js/2.2dd02ea8.chunk.js": "/Moke-Travel/static/js/2.2dd02ea8.chunk.js",
+    "static/js/2.2dd02ea8.chunk.js.map": "/Moke-Travel/static/js/2.2dd02ea8.chunk.js.map",
+    "static/js/3.ba94b8d0.chunk.js": "/Moke-Travel/static/js/3.ba94b8d0.chunk.js",
+    "static/js/3.ba94b8d0.chunk.js.map": "/Moke-Travel/static/js/3.ba94b8d0.chunk.js.map",
+    "index.html": "/Moke-Travel/index.html",
+    "static/css/main.4c691ff3.chunk.css.map": "/Moke-Travel/static/css/main.4c691ff3.chunk.css.map",
+    "static/js/2.2dd02ea8.chunk.js.LICENSE.txt": "/Moke-Travel/static/js/2.2dd02ea8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Moke-Travel/static/media/logo.5c4eda44.svg",
+    "static/media/place.svg": "/Moke-Travel/static/media/place.7d64241c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bff5a5bb.js",
+    "static/js/2.2dd02ea8.chunk.js",
+    "static/css/main.4c691ff3.chunk.css",
+    "static/js/main.b341c973.chunk.js"
+  ]
+}
